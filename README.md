@@ -39,10 +39,14 @@ o	Ad Copy: Optimize prompts for short, impactful advertisements with strong CTAs
 5.	Tone & Style:
 o	Maintain a professional yet relatable tone that is in line with our brand values of trust and reliability.
 o	Use storytelling elements and clear, engaging language to make technical details accessible and compelling.
+
 Example AI Prompts:
+
 1.	Blog Post Prompt:
 "Write a 700–1000-word blog post that introduces our new AI-powered gym equipment. Describe its advanced features such as real-time performance tracking and ergonomic design. Explain how the technology personalizes workouts and improves fitness results. Include user testimonials and expert insights. Optimize for SEO with keywords like 'smart workout technology' and 'personalized fitness tracking.' Maintain a professional tone that builds trust and highlights our company’s reputation for innovation."
-2.	Product Description Prompt:
+
+3.	Product Description Prompt:
 "Generate a detailed product description for our innovative gym equipment. Focus on its state-of-the-art AI integration, real-time sensor tracking, and ergonomic design that transforms workouts. Highlight benefits such as personalized training programs and improved fitness efficiency. Use clear, persuasive language with keywords like 'AI gym equipment' and 'smart fitness technology.' Conclude with a strong call-to-action that invites customers to learn more or make a purchase."
-3.	Ad Copy Prompt:
+
+5.	Ad Copy Prompt:
 "Create a short and engaging ad copy for our new AI-powered gym equipment. Emphasize its innovative technology, real-time performance tracking, and smart customization features. Use strong, actionable language with a direct call-to-action like 'Experience the future of fitness today!' Incorporate keywords such as 'AI gym tech' and 'smart workout solution.' Ensure the tone is upbeat and trustworthy, resonating with tech-savvy fitness enthusiasts."
